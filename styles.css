@@ -1,0 +1,25 @@
+body {
+	position: relative;
+}
+
+#body {
+	width: fit-content;
+	margin: auto;
+	width: 600px;
+}
+
+button {
+	border-radius: 5px;
+	width: 126px;
+	height: 36px;
+	background-color: #e6e6e6;
+	position: static;
+	display: inline-block;
+	margin: 10px 5px 0px 0px;
+	#808080
+}
+
+form {
+	width: 500px;
+	margin: 50px auto;
+}
